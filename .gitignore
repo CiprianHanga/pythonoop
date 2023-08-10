@@ -3,7 +3,7 @@
 
 
 ## ANY DIRS I NEED TO REMOVE ##
-
+__pycache__/
 
 
 ### Linux ###
@@ -23,6 +23,9 @@
 
 ### Borland Turbo C++ ###
 
+### SublimeText ###
+*.sublime-project
+*.sublime-workspace
 
 ### NetBeans ###
 nbproject/private/
